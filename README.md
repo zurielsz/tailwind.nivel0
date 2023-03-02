@@ -29,7 +29,7 @@ Users should be able to:
 ### Screenshot
 - Mobile version
 
-![mobile](./mobile.png)
+![mobile](./mobileFM.png)
 
 - desktop version
 
